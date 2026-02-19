@@ -11,8 +11,8 @@ I hope this project inspires or helps others on their data journey! Feedback and
 
 # 🔧Technologies & Tools
 
-Database: Microsoft SQL Server
-ETL: SQL Server Integration Services (SSIS)
-Data Modeling: Star Schema
-Visualization: (Optional: Power BI, Tableau, or any BI tool of your choice)
+Database: Microsoft SQL Server //
+ETL: SQL Server Integration Services (SSIS)//
+Data Modeling: Star Schema//
+Visualization: Power BI //
 Version Control: Git & GitHub
