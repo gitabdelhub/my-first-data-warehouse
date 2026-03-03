@@ -26,3 +26,11 @@ I hope this project inspires or helps others on their data journey! Feedback and
 
 3-Gold Layer: Houses business-ready data modeled into a star schema required for reporting and analytics.
 
+
+---
+
+## 📝 PS
+
+Some SQL scripts in this repository contain comments written in French, as they were originally developed during my learning process.
+
+If needed, feel free to translate them using your preferred translation tool. I may update them to English in future revisions to improve accessibility.
